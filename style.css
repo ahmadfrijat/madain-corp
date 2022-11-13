@@ -1,0 +1,35 @@
+#city{
+    padding: 1%;
+    justify-content: center;
+}
+button{
+    margin: 1%;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+    padding: 2%;
+  }
+
+  button{
+    border-radius: 20px;
+    padding: 10px;
+    background-color: blue;
+    color: aliceblue;
+  }
+
+
+  span{
+    border-radius: 20px;
+    padding: 10px;
+    background-color: blue;
+    color: aliceblue;
+  }
+
+  .avatar{
+    border-radius: 50%;
+    padding: 10px;
+    background-color: blueviolet;
+    width: fit-content;
+  }
